@@ -1,6 +1,10 @@
 # SmartWheelView
 完善的WheelView,修改View测量部分代码,增加点击操作,Xml样式修改.  
 https://github.com/wangjiegulu/WheelView
+
+<img src='image/image01.png' height='500px'/>
+<img src='image/image02.png' height='500px'/>
+
 ## Xml样式设置
 * textBold:文本是否加粗
 * textSize:文本大小
