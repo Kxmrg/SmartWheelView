@@ -24,6 +24,13 @@ https://github.com/wangjiegulu/WheelView
                 app:textBold="true" />
                 
 #### java
+        List<String> datas = new ArrayList<>();
+        datas.add("1");
+        datas.add("2");
+        datas.add("3");
+        datas.add("4");
+        datas.add("5");
+        
         SmartWheelView smartWheelView=new SmartWheelView(context);
         smartWheelView.setDatas(datas);
         smartWheelView.setSeletion(1);
